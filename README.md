@@ -1,17 +1,7 @@
-# ReduxSimpleStarter
+### Redux Page Views
+A single-page app built in react-redux that gathers data from server and displayed in a chart.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+## Setup
 > npm install
 > npm start
 ```
