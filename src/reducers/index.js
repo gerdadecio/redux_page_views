@@ -1,7 +1,8 @@
 import { combineReducers } from 'redux';
+import UrlsReducer from './reducer_urls';
 
 const rootReducer = combineReducers({
-  state: (state = {}) => state
+  urlList: UrlsReducer
 });
 
 export default rootReducer;
