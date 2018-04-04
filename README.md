@@ -1,4 +1,4 @@
-### Redux Page Views
+# Redux Page Views
 A single-page app built in react-redux that gathers data from server and displayed in a chart.
 
 ## Setup
